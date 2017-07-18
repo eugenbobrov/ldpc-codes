@@ -1,4 +1,5 @@
 # ldpc_codes
+loopy belief propagation in error-correction coding 
 
 ![](data/spoon.png)
 ![](data/0.png)
