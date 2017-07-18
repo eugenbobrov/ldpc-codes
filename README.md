@@ -1,7 +1,7 @@
 # ldpc_codes
 loopy belief propagation in error-correction coding
 
-![](CodeCogsEqn.gif)
+![](data/CodeCogsEqn.gif)
  	
 ![](data/spoon.png)
 ![](data/0.png)
