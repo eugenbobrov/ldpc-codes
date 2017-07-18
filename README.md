@@ -9,3 +9,5 @@ loopy belief propagation in error-correction coding
 ![](data/3.png)
 ![](data/4.png)
 ![](data/5.png)
+
+![](data/diver-eps-converted-to-1.png)
