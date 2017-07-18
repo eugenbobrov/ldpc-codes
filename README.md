@@ -1,6 +1,6 @@
 # ldpc_codes
 
-![alt text](data/start.png)
-![alt text](data/0.png)
-![alt text](data/4.png)
-![alt text](data/6.png)
+![](data/start.png =100x20)
+![](data/0.png)
+![](data/4.png)
+![](data/6.png)
