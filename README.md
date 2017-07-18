@@ -1,6 +1,8 @@
 # ldpc_codes
 loopy belief propagation in error-correction coding
 
+see main in pdf
+
 ![](data/CodeCogsEqn.gif)
  	
 ![](data/spoon.png)
